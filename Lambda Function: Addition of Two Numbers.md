@@ -8,9 +8,19 @@ To write a Python program that defines a **lambda function** which takes two arg
 2. Use a **lambda function** to define a function `f` that returns `a + b`.
 3. Call the function with the user inputs and print the result.
 
-## 🧾 Program
-Add code here
+## 🧾 Program:
+a=int(input()) 
 
-## Output
+b=int(input()) 
 
-## Result
+f=lambda a,b: a+b 
+
+print(f(a,b))
+
+## Output:
+<img width="461" height="186" alt="WhatsApp Image 2026-05-28 at 8 25 45 PM" src="https://github.com/user-attachments/assets/cd551022-49fb-412d-afb2-aae18a0f7f2a" />
+
+
+
+## Result:
+thus the program has verified successfully
